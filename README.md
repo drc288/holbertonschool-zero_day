@@ -1,1 +1,1 @@
-*This file is mandatory in all Holberton School projects
+* his file is mandatory in all Holberton School projects
