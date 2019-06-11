@@ -1,0 +1,6 @@
+EMACS
+
+EXAMPLE FOR EMACS 
+
+M is a ALT
+C is a CTRL
